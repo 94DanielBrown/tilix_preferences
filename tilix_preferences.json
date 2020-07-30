@@ -1,0 +1,35 @@
+{
+    "child": {
+        "child1": {
+            "directory": "\/home\/dbrown\/projects",
+            "height": 754,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "fc5bfef6-f534-4a8a-8011-432225dd9822",
+            "width": 659
+        },
+        "child2": {
+            "directory": "\/home\/dbrown",
+            "height": 754,
+            "profile": "2b7c4080-0ddd-46c5-8f23-563fd3ba789d",
+            "readOnly": false,
+            "synchronizedInput": true,
+            "type": "Terminal",
+            "uuid": "3a3dc393-b233-4c72-9c5e-25ffb30843cf",
+            "width": 659
+        },
+        "orientation": 0,
+        "position": 49,
+        "ratio": 0.499620924943138756,
+        "type": "Paned"
+    },
+    "height": 754,
+    "name": "Default",
+    "synchronizedInput": false,
+    "type": "Session",
+    "uuid": "f2fad2c9-77a2-481b-a545-4700915aa8b0",
+    "version": "1.0",
+    "width": 1319
+}
